@@ -7,4 +7,9 @@ This project dives into an interactive version of COVID -19 data analysis where 
 
 ### code for runing the applictaion locally
 
-""runGithub("Shiny_covid","Sudipanpaul") ""
+```R 
+runGithub("Shiny_covid","Sudipanpaul")
+```
+
+It may happend that one maynot have all the required libraries installed hence install the following libraries
+#### Libraries needed
