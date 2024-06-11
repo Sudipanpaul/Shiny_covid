@@ -7,4 +7,4 @@ This project dives into an interactive version of COVID -19 data analysis where 
 
 ### code for runing the applictaion locally
 
-
+""runGithub("Shiny_covid","Sudipanpaul") ""
