@@ -1,4 +1,4 @@
-setwd("D:/R learn/Fiverr")
+
 library(shiny)
 library(httr)
 library(jsonlite)
